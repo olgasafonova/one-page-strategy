@@ -4,10 +4,12 @@
 [![Claude Code](https://img.shields.io/badge/Claude_Code-Skill-green?logo=anthropic&logoColor=white)](https://docs.anthropic.com/en/docs/claude-code)
 [![Claude Projects](https://img.shields.io/badge/Claude-Projects-orange?logo=anthropic&logoColor=white)](https://support.claude.com/en/articles/12512180-using-skills-in-claude)
 [![Cursor](https://img.shields.io/badge/Cursor-Rules-purple)](https://cursor.com/docs/context/rules)
+[![Windsurf](https://img.shields.io/badge/Windsurf-Rules-blue)](https://docs.windsurf.com)
+[![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-Instructions-black?logo=github&logoColor=white)](https://docs.github.com/en/copilot/customizing-copilot/adding-repository-custom-instructions-for-github-copilot)
 
 [![skillcheck passed](https://raw.githubusercontent.com/olgasafonova/one-page-strategy/main/skillcheck-passed.svg)](https://getskillcheck.com)
 
-A Claude Code skill that guides you through writing, reviewing, or refining strategy documents using the **One Page Strategy** framework.
+An AI skill that guides you through writing, reviewing, or refining strategy documents using the **One Page Strategy** framework. Works in any tool that supports custom instructions.
 
 Replace bloated strategy decks with a half-page narrative structured as four sequential sections: **Facts, Problem, Idea, Solution.**
 
@@ -43,6 +45,26 @@ Or copy manually: place the `one-page-strategy/` folder into `~/.claude/skills/`
 ### Cursor
 
 Copy `one-page-strategy/SKILL.md` content into your `.cursorrules` or project rules file.
+
+### Windsurf
+
+Copy `one-page-strategy/SKILL.md` content into your `.windsurfrules` file.
+
+### GitHub Copilot
+
+Copy `one-page-strategy/SKILL.md` content into `.github/copilot-instructions.md` in your repository.
+
+### Cline
+
+Paste `one-page-strategy/SKILL.md` content into Cline's custom instructions (Settings > Custom Instructions).
+
+### Aider
+
+Copy `one-page-strategy/SKILL.md` content into your `.aider.conf.yml` conventions file or pass with `--read`.
+
+### ChatGPT
+
+Create a custom GPT and paste `one-page-strategy/SKILL.md` content into the Instructions field.
 
 ## Usage
 
