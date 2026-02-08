@@ -79,4 +79,12 @@ When showing examples to users:
 
 ---
 
-*One Page Strategy framework compiled by [Richard Russell](https://www.linkedin.com/in/richardarussell/) (richardrussell.co), drawing from [Alex M H Smith](https://www.linkedin.com/in/alex-m-h-smith/), Richard Rumelt, and Lafley & [Roger Martin](https://www.linkedin.com/in/roger-martin-9916911a9/).*
+## References
+
+- [Alex M H Smith](https://www.linkedin.com/in/alex-m-h-smith/), "No Bullsh*t Strategy" ([Basic Arts](https://basicarts.org/))
+- [Richard Rumelt](https://www.linkedin.com/in/richard-rumelt-18520828/), "Good Strategy/Bad Strategy" and "The Crux"
+- [A.G. Lafley](https://www.linkedin.com/in/ag-lafley-2381b3201/) and [Roger Martin](https://www.linkedin.com/in/roger-martin-9916911a9/), "Playing to Win"
+
+---
+
+*One Page Strategy framework compiled by [Richard Russell](https://www.linkedin.com/in/richardarussell/) (richardrussell.co), drawing from the sources above.*

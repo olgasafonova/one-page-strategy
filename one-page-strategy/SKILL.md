@@ -21,20 +21,7 @@ Guide the creation, review, or refinement of a strategy document using the One P
 
 ## The Framework
 
-A one-page strategy answers four questions in sequence, forming a narrative arc:
-
-```
-                                    4. The Solution
-                                   /
-                                 /
-                               /
-  1. The Facts          3. The Idea
-               \              /
-                 \          /
-                   \      /
-                     \  /
-                2. The Problem
-```
+A one-page strategy answers four questions in sequence, forming a narrative arc: **Facts → Problem → Idea → Solution**. Each section depends on the one before it.
 
 | Section | Format | Constraint |
 |---------|--------|------------|

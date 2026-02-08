@@ -100,19 +100,6 @@ Each section requires confirmation before moving to the next. The skill asks: *"
 
 ## The Framework
 
-```
-                                    4. The Solution
-                                   /
-                                 /
-                               /
-  1. The Facts          3. The Idea
-               \              /
-                 \          /
-                   \      /
-                     \  /
-                2. The Problem
-```
-
 | Section | Format | Constraint |
 |---------|--------|------------|
 | The Facts | One paragraph | Max 5 sentences, 200 words. Start with customers. |
@@ -127,8 +114,8 @@ Each section depends on the one before. Disagreement at any level invalidates ev
 Framework compiled by [Richard Russell](https://www.linkedin.com/in/richardarussell/) (richardrussell.co), drawing from:
 
 - [Alex M H Smith](https://www.linkedin.com/in/alex-m-h-smith/)'s "No Bullsh*t Strategy" ([Basic Arts](https://basicarts.org/))
-- Richard Rumelt's "Good Strategy/Bad Strategy" and "The Crux"
-- A.G. Lafley and [Roger Martin](https://www.linkedin.com/in/roger-martin-9916911a9/)'s "Playing to Win"
+- [Richard Rumelt](https://www.linkedin.com/in/richard-rumelt-18520828/)'s "Good Strategy/Bad Strategy" and "The Crux"
+- [A.G. Lafley](https://www.linkedin.com/in/ag-lafley-2381b3201/) and [Roger Martin](https://www.linkedin.com/in/roger-martin-9916911a9/)'s "Playing to Win"
 
 ## License
 
