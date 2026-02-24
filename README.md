@@ -62,9 +62,29 @@ Paste `one-page-strategy/SKILL.md` content into Cline's custom instructions (Set
 
 Copy `one-page-strategy/SKILL.md` content into your `.aider.conf.yml` conventions file or pass with `--read`.
 
-### ChatGPT
+### ChatGPT (Custom GPT)
 
-Create a custom GPT and paste `one-page-strategy/SKILL.md` content into the Instructions field.
+**Option A: Standalone GPT**
+
+Create a custom GPT and paste `one-page-strategy/SKILL.md` content into the Instructions field. This uses the skill as the GPT's sole purpose.
+
+**Option B: As a capability inside a multi-purpose GPT (recommended)**
+
+If you're building a GPT with multiple capabilities (e.g., a Product Manager Studio), use Knowledge files to keep the Instructions field free for other purposes:
+
+1. Open the custom GPT builder
+2. Under **Knowledge**, upload these two files:
+   - `one-page-strategy/SKILL.md`
+   - `one-page-strategy/references/examples.md`
+3. Add the following to your GPT's **Instructions**:
+
+```
+When the user asks to write, review, or refine a strategy document, or says
+"one page strategy", follow the One Page Strategy skill in your Knowledge files.
+Use the examples file as reference when the user asks for examples.
+```
+
+This lets the One Page Strategy coexist with other instructions in the same GPT.
 
 ## Usage
 
